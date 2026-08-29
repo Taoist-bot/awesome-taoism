@@ -106,7 +106,7 @@
 
 ### Online Tools
 
-- **[Daily Taoist Oracle (每日灵签)](https://oracle-tool.vercel.app)** — Free daily fortune reading drawn from the Tao Te Ching.
+- **[Daily Taoist Oracle (每日灵签)](https://oracle.reversefate.com)** — Free daily fortune slip drawn from Taoist temple tradition.
 - **[DeHuiTang AI Divination Tools](https://www.reversefate.com/mingli/bazi)** — AI-powered Bazi, Ziwei, Liu Yao, and Dream Interpretation tools.
 - [I Ching Online](https://www.onlineclarity.co.uk/) — Interactive I Ching consultation.
 - [Bazi Calculator](https://www.joey Yap.com/bazi-calculator) — Four Pillars destiny calculator.
@@ -214,7 +214,7 @@ Taoist talismans (符箓, fú lù) are sacred written charms used for protection
 | Tool | Description | Link |
 |------|-------------|------|
 | **Kua Number Calculator** | Calculate your Feng Shui directions | [kua.reversefate.com](https://kua.reversefate.com) |
-| **Daily Taoist Oracle** | Daily fortune from the Tao Te Ching | [oracle.reversefate.com](https://oracle-tool.vercel.app) |
+| **Daily Taoist Oracle** | Daily fortune slip from Taoist temple tradition | [oracle.reversefate.com](https://oracle.reversefate.com) |
 | **AI Bazi Reading** | Four Pillars destiny analysis | [reversefate.com/mingli/bazi](https://www.reversefate.com/mingli/bazi) |
 | **AI Ziwei Reading** | Purple Star Astrology | [reversefate.com/mingli/ziwei](https://www.reversefate.com/mingli/ziwei) |
 | **AI Liu Yao** | I Ching hexagram divination | [reversefate.com/mingli/liuyao](https://www.reversefate.com/mingli/liuyao) |
