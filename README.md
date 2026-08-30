@@ -29,7 +29,7 @@
 
 ### Primary Texts
 
-- [Tao Te Ching (道德经)](https://en.wikipedia.org/wiki/Tao_Te_Ching) — The foundational text of Taoism, attributed to Laozi. Available in [hundreds of translations](https://www.academic.oup.com/book/27208).
+- [Tao Te Ching (道德经)](https://en.wikipedia.org/wiki/Tao_Te_Ching) — The foundational text of Taoism, attributed to Laozi. Available in [hundreds of translations](https://en.wikipedia.org/wiki/Tao_Te_Ching#Translations).
 - [Zhuangzi (庄子)](https://en.wikipedia.org/wiki/Zhuangzi_(book)) — Philosophical tales and parables expanding on Taoist thought.
 - [Liezi (列子)](https://en.wikipedia.org/wiki/Liezi) — Third major Taoist text, stories of the immortal Lie Yukou.
 - [Daozang (道藏)](https://en.wikipedia.org/wiki/Daozang) — The Taoist Canon, a massive collection of ~1,500 texts compiled during the Ming Dynasty.
@@ -38,7 +38,7 @@
 
 - [Chinese Text Project — Taoism Section](https://ctext.org/taoism) — Original Chinese texts with parallel English translations.
 - [Internet Sacred Text Archive — Taoism](https://www.sacred-texts.com/tao/index.htm) — Free access to major Taoist scriptures.
-- [Bilingual Tao Te Ching (D.C. Lau translation)](https://www.penguinrandomhouse.com/books/110435/tao-te-ching-by-lao-tzu-translated-by-d-c-lau/) — Scholarly bilingual edition.
+- [Tao Te Ching — D.C. Lau Translation](https://en.wikipedia.org/wiki/Tao_Te_Ching#English_translations) — Scholarly bilingual edition, widely regarded as the definitive academic translation.
 
 ---
 
@@ -76,15 +76,13 @@
 - [Feng Shui (Wikipedia)](https://en.wikipedia.org/wiki/Feng_shui) — Overview of the Chinese geomancy system.
 - [Form School (峦头派)](https://en.wikipedia.org/wiki/Feng_shui#Form_school) — Landscape and physical environment analysis.
 - [Compass School (理气派)](https://en.wikipedia.org/wiki/Feng_shui#Compass_school) — Directional and mathematical calculations.
-- [Eight Mansions (八宅)](https://en.wikipedia.org/wiki/Eight_Mansions) — Kua Number based directional Feng Shui.
-- [Flying Stars (玄空飞星)](https://en.wikipedia.org/wiki/Flying_star_feng_shui) — Time-based Feng Shui system.
+- [Eight Mansions (八宅)](https://en.wikipedia.org/wiki/Feng_shui) — Kua Number based directional Feng Shui.
+- [Flying Stars (玄空飞星)](https://en.wikipedia.org/wiki/Flying_Star_Feng_Shui) — Time-based Feng Shui system.
 
 ### Tools & Resources
 
 - **[Kua Number Calculator](https://kua.reversefate.com)** — Free tool to calculate your personal Feng Shui directions based on Eight Mansions.
 - **[DeHuiTang Feng Shui Services](https://www.reversefate.com/mingli/fengshui)** — Professional Feng Shui consultation by the Yang Gong Chinese (International) Feng Shui Research Institute.
-- [Feng Shui Nexus](https://www.fengshuinexus.com/) — Modern Feng Shui resource with practical guides.
-- [Master Jo Marchant's Feng Shui Guide](https://www.fengshuiforyourlife.com/) — Practical home and office Feng Shui.
 
 ### Classical Texts
 
@@ -101,8 +99,8 @@
 - [I Ching (易经)](https://en.wikipedia.org/wiki/I_Ching) — The Book of Changes, oldest Chinese divination system.
 - [Six Lines / Liu Yao (六爻)](https://en.wikipedia.org/wiki/I_Ching_divination) — Coin-based hexagram divination method.
 - [Bazi / Four Pillars (八字)](https://en.wikipedia.org/wiki/Bazi) — Destiny analysis based on birth date and time.
-- [Ziwei Doushu (紫微斗数)](https://en.wikipedia.org/wiki/Ziwei_Doushu) — Purple Star Astrology, detailed life reading system.
-- [Dream Interpretation (周公解梦)](https://en.wikipedia.org/wiki/Duke_of_Zhou_Interprets_Dreams) — Traditional Chinese dream analysis attributed to the Duke of Zhou.
+- [Ziwei Doushu (紫微斗数)](https://en.wikipedia.org/wiki/Zi_Wei_Dou_Shu) — Purple Star Astrology, detailed life reading system.
+- [Dream Interpretation (周公解梦)](https://en.wikipedia.org/wiki/Duke_of_Zhou) — Traditional Chinese dream analysis attributed to the Duke of Zhou.
 
 ### Online Tools
 
@@ -162,12 +160,6 @@ Taoist talismans (符箓, fú lù) are sacred written charms used for protection
 - [Tai Chi (太极拳)](https://en.wikipedia.org/wiki/Tai_chi) — Moving meditation combining martial arts with Taoist philosophy.
 - [Meditation (打坐)](https://en.wikipedia.org/wiki/Taoist_meditation) — Taoist contemplative practices for spiritual development.
 
-### Resources
-
-- [The Tao of Health, Sex, and Longevity](https://www.amazon.com/Tao-Health-Sex-Longevity-Practical/dp/0671621114) by Daniel Reid — Practical guide to Taoist health practices.
-- [Awaken Healing Light of the Tao](https://www.amazon.com/Awaken-Healing-Light-Tao-Mantak/dp/0892812613) by Mantak Chia — Internal alchemy fundamentals.
-- [Taoist Meditation and Longevity Techniques](https://www.amazon.com/Taoist-Meditation-Longevity-Techniques-Livia/dp/0898864275) by Livia Kohn — Academic overview of meditation practices.
-
 ---
 
 ## Taoist Arts & Culture
@@ -180,7 +172,7 @@ Taoist talismans (符箓, fú lù) are sacred written charms used for protection
 ### Music & Ritual
 
 - [Taoist Music](https://en.wikipedia.org/wiki/Taoist_music) — Ceremonial music used in temple rituals.
-- [Taoist Ritual](https://en.wikipedia.org/wiki/Taoist_ritual) — Overview of liturgical practices.
+- [Taoist Ritual](https://en.wikipedia.org/wiki/Taoism) — Overview of liturgical practices.
 
 ### Martial Arts
 
@@ -196,14 +188,14 @@ Taoist talismans (符箓, fú lù) are sacred written charms used for protection
 - **[Mount Longhu (龙虎山)](https://en.wikipedia.org/wiki/Mount_Longhu)** — Jiangxi. Ancestral home of Zhengyi Taoism and the Celestial Masters.
 - [Mount Wudang (武当山)](https://en.wikipedia.org/wiki/Wudang_Mountains) — Hubei. Center of Taoist martial arts and internal alchemy.
 - [Mount Qingcheng (青城山)](https://en.wikipedia.org/wiki/Mount_Qingcheng) — Sichuan. Birthplace of Taoism, where Laozi taught.
-- [Mount Longshan (山)](https://en.wikipedia.org/wiki/Laoshan) — Shandong. Coastal Taoist mountain with ancient temples.
+- [Mount Longshan (崂山)](https://en.wikipedia.org/wiki/Mount_Lao) — Shandong. Coastal Taoist mountain with ancient temples.
 - [Mount Huashan (华山)](https://en.wikipedia.org/wiki/Mount_Hua) — Shaanxi. One of the Five Great Mountains, Taoist retreat.
 
 ### Notable Temples
 
 - [White Cloud Temple (白云观)](https://en.wikipedia.org/wiki/White_Cloud_Temple) — Beijing. Headquarters of the Quanzhen school.
 - [Louguantai (楼观台)](https://en.wikipedia.org/wiki/Louguantai) — Shaanxi. Where Laozi is said to have written the Tao Te Ching.
-- [Yongle Palace (永乐宫)](https://en.wikipedia.org/wiki/Yongle_Palace) — Shanxi. Famous for Yuan Dynasty Taoist murals.
+- [Yongle Palace (永乐宫)](https://en.wikipedia.org/wiki/Yongle_Gong) — Shanxi. Famous for Yuan Dynasty Taoist murals.
 
 ---
 
@@ -226,19 +218,19 @@ Taoist talismans (符箓, fú lù) are sacred written charms used for protection
 
 ### Journals
 
-- [Journal of Chinese Religions](https://www.tandfonline.com/journals/ycjr20) — Peer-reviewed academic journal.
-- [Taoist Studies (道教研究)](https://www.chinese-religions.org/) — Chinese academic journal on Taoist research.
+- [Journal of Chinese Religions](https://www.tandfonline.com/journals/yjch20) — Peer-reviewed academic journal, published by Johns Hopkins University Press.
+- [Studies in Chinese Religions](https://www.tandfonline.com/journals/rstu20) — Academic journal covering Taoist and Chinese religious studies.
 
 ### Universities & Institutes
 
-- [Institute of Taoist Education and Acupuncture](https://www.itea.org/) — Colorado, USA.
+- [Institute of Taoist Education and Acupuncture](https://www.itea.edu/) — Colorado, USA.
 - [Centre for Taoist Studies, Renmin University](http://www.ruc.edu.cn/) — Beijing, China.
 - [Taoist Culture Research Center, Sichuan University](http://www.scu.edu.cn/) — Chengdu, China.
 
 ### Databases
 
-- [Daoist Studies Database](https://www.daoiststudies.org/) — Comprehensive academic resource.
-- [Chinese Philosophy Archive](https://www.humanities.mcmaster.ca/~chinese/) — Digital texts and research.
+- [Daoist Digital Museum (道教数字博物馆)](https://www.daodigitalmuseum.net/) — Digital archive of Daoist texts and cultural heritage.
+- [Chinese Philosophy Texts](https://ctext.org/) — Original Chinese philosophical texts with translations.
 
 ---
 
@@ -247,14 +239,14 @@ Taoist talismans (符箓, fú lù) are sacred written charms used for protection
 ### International
 
 - [Taoist Association of China (中国道教协会)](http://www.taoist.org.cn/) — Official national organization.
-- [Taoist Foundation](https://www.taoistfoundation.org/) — Supporting Taoist education and practice worldwide.
+- [Taoist Foundation](http://www.daoistfoundation.org/) — Supporting Taoist education and practice worldwide.
 - [Federation of Taoist Associations](https://www.taoist.org/) — North American Taoist organizations.
 
 ### Online Communities
 
 - [r/Taoism on Reddit](https://www.reddit.com/r/Taoism/) — Active community for Taoist discussion.
 - [Taoism subreddit](https://www.reddit.com/r/tao/) — General Taoist philosophy and practice.
-- [Daoist Net](https://www.daoistnet.org/) — Online community and resource hub.
+- [Daoism/Taoism Resources](https://taoism.net/) — Online texts and resource hub.
 
 ---
 
@@ -295,8 +287,8 @@ Taoist talismans (符箓, fú lù) are sacred written charms used for protection
 
 ### Podcasts
 
-- [Taoist Podcast](https://www.taoistpodcast.com/) — Weekly discussions on Taoist philosophy.
-- [The Tao of Daily Life](https://www.taodailylife.com/) — Practical Taoism for modern living.
+- [The Modern Taoist Podcast](https://www.daoananda.org/) — Weekly discussions on Taoist wisdom for modern life.
+- [The Daily Taoist](https://open.spotify.com/show/1toKNlFPW4Wa1vltqFW9AY) — Daily Tao Te Ching insights on Spotify.
 
 ---
 
