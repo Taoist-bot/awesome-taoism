@@ -107,7 +107,7 @@
 - **[Daily Taoist Oracle (每日灵签)](https://oracle.reversefate.com)** — Free daily fortune slip drawn from Taoist temple tradition.
 - **[DeHuiTang AI Divination Tools](https://www.reversefate.com/mingli/bazi)** — AI-powered Bazi, Ziwei, Liu Yao, and Dream Interpretation tools.
 - [I Ching Online](https://www.onlineclarity.co.uk/) — Interactive I Ching consultation.
-- [Bazi Calculator](https://www.joey Yap.com/bazi-calculator) — Four Pillars destiny calculator.
+- [Bazi Calculator](https://www.reversefate.com/mingli/bazi) — Four Pillars destiny calculator.
 
 ### Recommended Books
 
