@@ -106,6 +106,7 @@
 
 - **[Daily Taoist Oracle (每日灵签)](https://oracle.reversefate.com)** — Free daily fortune slip drawn from Taoist temple tradition.
 - **[DeHuiTang AI Divination Tools](https://www.reversefate.com/mingli/bazi)** — AI-powered Bazi, Ziwei, Liu Yao, and Dream Interpretation tools.
+- [Yijian & Shilai Free Tools (易見・時來)](https://mm7382.github.io/en/) — Free bilingual I Ching casting, a 64-hexagram reference, and Bazi and Ziwei charts; no login, no ads, charts stay in your browser.
 - [I Ching Online](https://www.onlineclarity.co.uk/) — Interactive I Ching consultation.
 
 ### Recommended Books
